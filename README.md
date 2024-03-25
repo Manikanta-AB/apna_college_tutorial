@@ -1,5 +1,6 @@
 # apna_college_tutorial
 It's my first my repository
 <br>
-Author : Manikanta AB
+Author : Manikanta AB(Pragati Engineering College, Kakinada)
 
+ 
